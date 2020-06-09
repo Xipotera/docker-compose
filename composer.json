@@ -1,0 +1,13 @@
+{
+    "name": "telegramme-api",
+    "require-dev": {
+
+    },
+    "authors": [
+        {
+            "name": "Mathieu Vie",
+            "email": "mathieu@hellomybot.io"
+        }
+    ],
+    "require": {}
+}
